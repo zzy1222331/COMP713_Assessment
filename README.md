@@ -1,4 +1,4 @@
-# COMP713 Assessment 2 - Option B: P2P Message-Passing System
+# COMP713 Assessment 2 - Final Submission
 
 ## 1. Software and Tools Required
 - Python 3.8+ (Tested on Python 3.11.9)
