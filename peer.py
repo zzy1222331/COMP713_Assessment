@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-COMP713 Assessment 2 - Option B
-P2P System - Final Perfect Version
+COMP713 Assessment  - Option B
+# P2P implementation
 """
 
 import socket
